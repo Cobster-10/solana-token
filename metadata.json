@@ -1,0 +1,6 @@
+{
+    "name": "Example Token",
+    "symbol": "EXMPL",
+    "description": "This is an example token used for demonstration purposes.",
+    "image": "https://raw.githubusercontent.com/Cobster-10/solana-token/refs/heads/main/Texas_A%26M_University_seal.svg"
+}
